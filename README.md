@@ -15,7 +15,7 @@ This project is written in ES6-code with the using backbone. You can show tasks 
 cd backbone-todomvc-demo
 npm install
 npm install -g webpack
-bower intall
+bower install
 ```
 
 ## Usage
